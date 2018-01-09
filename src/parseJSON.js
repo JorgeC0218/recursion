@@ -3,5 +3,8 @@
 
 // but you're not, so you'll write it from scratch:
 var parseJSON = function(json) {
-  // your code goes here
+var parse = JSON.parse(json);
+return parse;
+  // define return value
+  // return value
 };
